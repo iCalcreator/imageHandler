@@ -1,0 +1,74 @@
+/**
+ * imageHandler.js
+ *
+ * @package imageHandler
+ * @subpackage test
+ * @copyright 2015, Kjell-Inge Gustafsson kigkonsult, All rights reserved
+ * @author    Kjell-Inge Gustafsson, kigkonsult <ical@kigkonsult.se>
+ * @link      http://kigkonsult.se/imageHandler/index.php
+ * @license   non-commercial use: Creative Commons
+ *            Attribution-NonCommercial-NoDerivatives 4.0 International License
+ *            (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+ *            commercial use :imageHandler141license / imageHandler14Xlicense
+ * @version   1.4
+ */
+a {        color            : black;
+           text-decoration  : none; }
+body {     width            : 800px;
+           font             : 12pt 'Helvetica', sans-serif;  }
+fieldset { border           : 1px solid gray;
+          -moz-border-radius : 8px;
+          -webkit-border-radius : 8px;
+           border-radius    : 8px;
+           margin           : 2px;
+           padding          : 2px; }
+legend {   padding-left     : 0.5em;
+           padding-right    : 0.2em;
+           font             : 12pt serif; }
+label, .label {
+           font-family      : sans-serif;
+           font-size        : 8pt;
+           letter-spacing   : 0.2em;
+           text-transform   : lowercase; }
+table {    border-collapse  : collapse;
+      /*  table-layout     : fixed;                  /* **   T E S T   ** */
+           width            : 100%; }
+td {       font             : 12pt 'Helvetica', sans-serif;
+           vertical-align   : top; }
+.b  {      vertical-align   : bottom; }
+.bc {      text-align       : center;  }
+.br {      text-align       : right;  }
+.btn {     cursor           : pointer;
+           cursor           : hand;
+           background-color : #F5F5F5;
+           display          : inline-block;
+           font-family      : sans-serif;
+           font-size        : 8pt;
+           letter-spacing   : 0.1em;
+           border           : 1px solid gray;
+          -moz-border-radius : 3px;
+          -webkit-border-radius : 3px;
+           border-radius    : 3px;
+           margin           : 0px;
+           padding          : 2px 3px 2px 3px; }
+.cursor {  cursor           : pointer;
+           cursor           : hand; }
+.grey {    color            : grey; }
+.label {   font-family      : sans-serif;
+           font-size        : 8pt;
+           letter-spacing   : 0.2em;
+           text-transform   : lowercase; }
+.labelh {  font-family      : sans-serif;
+           font-size        : 6pt;
+           letter-spacing   : 0.2em; }
+.labelt {  font             : 10pt 'Helvetica', sans-serif; }
+.r0 {      background-color : #ffffff }
+.r1 {      background-color : #F5F5F5 }
+.u {       border-bottom    : thin dotted gray }
+.w50p {    width            : 50px; }
+.w100p {   width            : 100px; }
+.w150p {   width            : 150px; }
+.w200p {   width            : 200px; }
+.w250p {   width            : 250px; }
+.w400p {   width            : 400px; }
+.w500p {   width            : 500px; }
